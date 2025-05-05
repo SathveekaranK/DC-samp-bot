@@ -1,0 +1,11 @@
+B-Discord (V1.4)
+InGame Commands added
+/bug => For reporting bugs ingame
+/suggestion => for suggestion posting ingame
+/savecord => for saving cooridnates , facing angle , interior , virtual world**
+New discord commands
+!quotes
+if there is no one playing on your server the bot will show this message Getting bored ?? Join me at <serverip>
+!quotes command added ( RANDOM QUOTES WILL BE PRESENTED)
+Random messaging system ( DISCORD SERVER )
+Minor Fixes.
